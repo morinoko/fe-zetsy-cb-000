@@ -45,7 +45,7 @@ header img {
   border: 5px solid #CCC;
 }
 
-#press img:hover {
+#press a img:hover {
   border: #6F7F7A;
 }
 
