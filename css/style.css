@@ -7,7 +7,8 @@
 h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
-  pa
+  margin: 0;
+  padding: 5px 0;
   border-bottom: 1px solid #ccc;
 }
 
