@@ -56,6 +56,10 @@ header img {
 /*////////// Press //////////*/
 #press img {
   border: 5px solid #CCC;
+  /*webkit-transition: border 2s ease-out;*/
+  /*-moz-transition: background-color 2s ease-out;*/
+  /*-o-transition: background-color 2s ease-out;*/
+  transition: border 2s ease-out;
 }
 
 #press img:hover {
