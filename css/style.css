@@ -29,7 +29,6 @@ body {
 	padding: 0 45px 20px;
 }
 
-/*////////// Header //////////*/
 h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
@@ -38,6 +37,7 @@ h1 {
   border-bottom: 1px solid #CCC;
 }
 
+/*////////// Header //////////*/
 header a {
   color: #98ADA6;
   text-decoration: none;
