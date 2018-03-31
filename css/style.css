@@ -44,6 +44,9 @@ header img {
 }
 
 /*////////// About //////////*/
+#about a {
+  color: #1783bb;
+}
 
 /*////////// Press //////////*/
 #press img {
