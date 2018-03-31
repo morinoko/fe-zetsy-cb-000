@@ -4,6 +4,10 @@
   src: url(../fonts/Baskerville.ttc) format('truetype');
 }
 
+h2 {
+  font-size: 2em;
+  color: #6F7F7A;
+}
 
 /*////////// Global Styles //////////*/
 
