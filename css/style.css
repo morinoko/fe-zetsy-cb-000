@@ -33,10 +33,22 @@ body {
 h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
-  color: #98ADA6;
   margin: 0 0 5px 0;
   padding: 0 0 10px 0;
   border-bottom: 1px solid #CCC;
+}
+
+header a {
+  color: #98ADA6;
+  text-decoration: none;
+  -webkit-transition: border 1s ease-out;
+  -moz-transition: border 1s ease-out;
+  -o-transition: border 1s ease-out;
+  transition: border 1s ease-out;
+}
+
+header a:hover {
+  color: ;
 }
 
 header img {
@@ -56,7 +68,7 @@ header img {
 /*////////// Press //////////*/
 #press img {
   border: 5px solid #CCC;
-  webkit-transition: border 1s ease-out;
+  -webkit-transition: border 1s ease-out;
   -moz-transition: border 1s ease-out;
   -o-transition: border 1s ease-out;
   transition: border 1s ease-out;
