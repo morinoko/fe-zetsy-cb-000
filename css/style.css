@@ -45,6 +45,10 @@ header img {
   border: 5px solid #CCC;
 }
 
+#press img:hover {
+  border: ;
+}
+
 /*////////// Footer //////////*/
 footer p {
   text-align: right;
