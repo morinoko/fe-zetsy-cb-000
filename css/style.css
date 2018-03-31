@@ -4,16 +4,6 @@
   src: url(../fonts/Baskerville.ttc) format('truetype');
 }
 
-h2 {
-  font-size: 2em;
-  color: #6F7F7A;
-}
-
-p {
-  font-size: 1em;
-  color: #555;
-}
-
 /*////////// Global Styles //////////*/
 
 body {
@@ -35,6 +25,16 @@ h1 {
   margin: 0 0 5px 0;
   padding: 0 0 10px 0;
   border-bottom: 1px solid #CCC;
+}
+
+h2 {
+  font-size: 2em;
+  color: #6F7F7A;
+}
+
+p {
+  font-size: 1em;
+  color: #555;
 }
 
 /*////////// Header //////////*/
