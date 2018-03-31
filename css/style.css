@@ -4,14 +4,6 @@
   src: url(../fonts/Baskerville.ttc) format('truetype');
 }
 
-h1 {
-  font-family: 'Baskerville', serif;
-  font-size: 5em;
-  margin: 0;
-  padding: 5px 0;
-  border-bottom: 1px solid #ccc;
-}
-
 
 /*////////// Global Styles //////////*/
 
@@ -28,4 +20,19 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+/*////////// Header //////////*/
+h1 {
+  font-family: 'Baskerville', serif;
+  font-size: 5em;
+  margin: 0;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+/*////////// About //////////*/
+
+
+/*////////// Footer //////////*/
+#footer p {
+  text-align: right;
+}
