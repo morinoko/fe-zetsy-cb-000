@@ -3,20 +3,16 @@
   font-family: 'Baskerville';
   src: url(../fonts/Baskerville.ttc) format('truetype');
 }
-h1 {
-  font-family: 'Baskerville', serif;
-  font-size: 5em;
-  color: #98ADA6;
-  margin: 0 0 5px 0;
-  padding: 0 0 10px 0;
-  border-bottom: 1px solid #CCC;
-}
 
 h2 {
   font-size: 2em;
   color: #6F7F7A;
 }
 
+p {
+  font-size: 1em;
+  color: #555;
+}
 
 /*////////// Global Styles //////////*/
 
@@ -34,6 +30,14 @@ body {
 }
 
 /*////////// Header //////////*/
+h1 {
+  font-family: 'Baskerville', serif;
+  font-size: 5em;
+  color: #98ADA6;
+  margin: 0 0 5px 0;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid #CCC;
+}
 
 header img {
   border: 5px solid #98ADA6;
@@ -64,5 +68,6 @@ header img {
 
 /*////////// Footer //////////*/
 footer p {
+  font-size: 0.5em;
   text-align: right;
 }
