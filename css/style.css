@@ -35,7 +35,7 @@ header img {
 
 /*////////// About //////////*/
 #about img {
-  border 3px solid 
+  border:; 3px solid #CCC;
 }
 
 /*////////// Footer //////////*/
