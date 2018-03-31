@@ -41,10 +41,10 @@ h1 {
 header a {
   color: #98ADA6;
   text-decoration: none;
-  -webkit-transition: border 1s ease-out;
-  -moz-transition: border 1s ease-out;
-  -o-transition: border 1s ease-out;
-  transition: border 1s ease-out;
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
 }
 
 header a:hover {
