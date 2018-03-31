@@ -22,8 +22,9 @@ body {
 
 /*////////// Header //////////*/
 h1 {
-  font: 5em #98ADA6 'Baskerville', serif;
+  font-family: 'Baskerville', serif;
   font-size: 5em;
+  color: #98ADA6;
   margin: 0;
   padding: 5px 0;
   border-bottom: 1px solid #CCC;
