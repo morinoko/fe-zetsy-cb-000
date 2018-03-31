@@ -3,6 +3,14 @@
   font-family: 'Baskerville';
   src: url(../fonts/Baskerville.ttc) format('truetype');
 }
+h1 {
+  font-family: 'Baskerville', serif;
+  font-size: 5em;
+  color: #98ADA6;
+  margin: 0;
+  padding: 5px 0;
+  border-bottom: 1px solid #CCC;
+}
 
 h2 {
   font-size: 2em;
@@ -25,14 +33,6 @@ body {
 }
 
 /*////////// Header //////////*/
-h1 {
-  font-family: 'Baskerville', serif;
-  font-size: 5em;
-  color: #98ADA6;
-  margin: 0;
-  padding: 5px 0;
-  border-bottom: 1px solid #CCC;
-}
 
 header img {
   border: 5px solid #98ADA6;
